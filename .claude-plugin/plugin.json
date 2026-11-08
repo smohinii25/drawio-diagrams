@@ -1,0 +1,17 @@
+{
+  "name": "drawio-diagrams",
+  "version": "0.1.0",
+  "description": "Generate editable draw.io diagrams (architecture, flow, ERD, sequence) from the code in any repo, in any language.",
+  "author": {
+    "name": "YOUR NAME"
+  },
+  "keywords": [
+    "drawio",
+    "diagrams",
+    "architecture",
+    "flowchart",
+    "erd",
+    "sequence-diagram",
+    "documentation"
+  ]
+}

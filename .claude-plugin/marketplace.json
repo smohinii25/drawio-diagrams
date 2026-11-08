@@ -1,0 +1,14 @@
+{
+  "name": "drawio-diagrams",
+  "description": "Claude Code plugin for generating draw.io diagrams from code.",
+  "owner": {
+    "name": "YOUR NAME"
+  },
+  "plugins": [
+    {
+      "name": "drawio-diagrams",
+      "source": "./",
+      "description": "Generate editable draw.io diagrams (architecture, flow, ERD, sequence) from the code in any repo, in any language."
+    }
+  ]
+}
